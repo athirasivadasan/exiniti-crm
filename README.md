@@ -1,5 +1,8 @@
 # exiniti-crm  - CRM
 
+# Install
+
+npm install
 
 # To run the Application
 
