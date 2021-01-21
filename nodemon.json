@@ -1,0 +1,8 @@
+{
+  "env": {
+    "MONGO_USER": "crm",
+    "MONGO_PASSWORD": "hYlf2qgYPtYX8Vko",
+    "MONGO_DB": "CRM",
+    "JWT_SECRET" : "J==cCpzHp3s77*xGdH&HkuB@#9+kyCVy2$Az?Qvd@ztxL=8r9Y"
+  }
+}
